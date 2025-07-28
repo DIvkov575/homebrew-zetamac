@@ -1,8 +1,8 @@
 class Zetamac < Formula
   desc "Short description of your app"
   homepage "Zetamac timed arithmetic test and practice"
-  url "https://github.com/DIvkov575/zetamac-rs/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "f66dbe23772d1b8b693ce23b058d74064babad2e3f6c5bf11eb3a88ff8c33dd5"
+  url "https://github.com/DIvkov575/zetamac-rs/archive/refs/tags/0.4.0.tar.gz"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
   license "MIT"
 
   depends_on "rust" => :build
